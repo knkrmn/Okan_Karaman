@@ -1,0 +1,1 @@
+console.log("bak bu da çalıştı");
